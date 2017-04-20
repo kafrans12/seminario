@@ -1,0 +1,10 @@
+﻿***
+-Info Empleador;C.CIUDADANIA;1085323378;empleadores sas;arturo;123454566
+-Info Centro Trabajo;valle;cali;potosi;andres;EMP. INTERNET
+-Info Trabajador;DEPENDIENTE;;;ramos;enriquez;francis;katherine;20 April, 2017;MUJER;NO;SI;emmsanar;nariño;pasto;manzana f csa 23;3145678909;kafrans12@hotmail.com;NO;jefe;300000000;
+***
+***
+-Info Empleador;C.CIUDADANIA;1085323378;empleadores sas;arturo;123454566
+-Info Centro Trabajo;valle;cali;potosi;andres;EMP. INTERNET
+-Info Trabajador;DEPENDIENTE;;;ramos;enriquez;francis;katherine;;MUJER;NO;SI;emmsanar;nariño;pasto;manzana f csa 23;3145678909;kafrans12@hotmail.com;NO;jefe;300000000;
+***
